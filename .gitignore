@@ -1,0 +1,10 @@
+# Project files
+target/
+.settings/
+.project
+.classpath
+
+# Intellij files
+*.iml
+.idea/
+
